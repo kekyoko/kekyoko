@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kyoko, a full-time backend freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🌱 I’m currently learning LUA and Java  
+- 🌱 I’m currently learning LUA and Java.
   
 
 - ⚡ Fun fact: Sessions and cookies? I make them work like magic.  
