@@ -1,25 +1,22 @@
 <div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Kyoko,+a+full-time+backend+freelance+developer+👨‍💻+working+remotely+since+2018+🚀" align="center" />
+    <img src="" align="center" height="" width="600" />
 </div>
-  
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Kyoko,+a+full-time+backend+freelance+developer+👨‍💻+working+remotely+since+2018+🚀" align="center" />
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!+✨" align="center" />
+</div>
 
 - 🌱 I’m currently learning LUA and Java.
-  
+- ⚡ Fun fact: Sessions and cookies? I make them work like magic.
 
-- ⚡ Fun fact: Sessions and cookies? I make them work like magic.  
-  
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -28,8 +25,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -46,8 +41,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Other  
 <div align="center">  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
@@ -57,8 +50,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -75,20 +67,16 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
+<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kekyoko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kekyoko&&style=flat-square" align="center" />
 </div>  
 
 <br />
-
-
