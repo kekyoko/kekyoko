@@ -2,7 +2,9 @@
 <img src="" align="center" height="" width="600" />
 </div>  
   
-### <div align="center">I'm Kyoko, a full-time backend freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Kyoko,+a+full-time+backend+freelance+developer+👨‍💻+working+remotely+since+2018+🚀" align="center" />
+</div>
   
 
 - 🌱 I’m currently learning LUA and Java.
