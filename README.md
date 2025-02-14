@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/a/64W0xAX" align="center" height="" width="600" />
+<img src="" align="center" height="" width="600" />
 </div>  
   
 ### <div align="center">I'm Kyoko, a full-time backend freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
