@@ -11,7 +11,7 @@
 </div>
 
 - 🌱 I’m currently learning LUA and Java.
-- ⚡ Fun fact: Sessions and cookies? I make them work like magic.
+- ⚡ Rule: Don't touch what works.
 
 <br/>
 
