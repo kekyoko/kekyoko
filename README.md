@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="" align="center" height="" width="600" />
+    <img src="2bicon.jpg" align="center" height="" width="600" />
 </div>
 
 <div align="center">
