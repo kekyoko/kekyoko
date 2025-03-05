@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Kyoko,+a+full-time+backend+freelance+developer+👨‍💻+working+remotely+since+2018+🚀" align="center" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Kyoko" align="center" />
 </div>
 
 <div align="center">
